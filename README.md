@@ -1,8 +1,8 @@
-#Selenium Web Automation with Python: Flipkart Project
+#Selenium Web Automation with Python: Flipkart Project#
 
 This project is an exploration of web automation using Selenium and Python. The aim of the project was to gain hands-on experience with Selenium WebDriver by automating interactions with a well-known eCommerce website, Flipkart.com.
 
-##Project Overview
+##Project Overview##
 The primary objective of this project was to automate web browsing tasks on Flipkart to understand the usage of Selenium for web scraping, testing, and general automation. The project involved writing Python scripts that simulate user behavior, such as searching for products, filtering search results, and extracting product details.
 
 ##Key Features:
